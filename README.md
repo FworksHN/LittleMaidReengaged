@@ -3,7 +3,7 @@ Again, on the new stage.
 
 ## What's this?
 A MOD of Minecraft; LittleMaidMob for MC1.12.2. Cute and little maid girls will be helpful for your life on Minecraft.
-Forged for research, original mods didn't updated for long, I'm looking for doing sth for it. 
+* Forged for research, original mods didn't updated for long, I'm looking for doing sth for it. 
 
 ## Related links
 * [LittleMaidMob(for MC 1.6.2 or more older)](http://forum.minecraftuser.jp/viewtopic.php?t=176) - by MMM
